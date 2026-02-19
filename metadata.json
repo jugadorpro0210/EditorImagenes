@@ -1,0 +1,8 @@
+{
+  "name": "Lumina AI Studio",
+  "description": "An advanced AI-powered image editing suite with a real-time virtual assistant. Generate, edit, and transform images using natural language, guided by an intelligent creative partner.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
